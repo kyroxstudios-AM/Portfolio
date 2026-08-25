@@ -90,6 +90,14 @@ export default function Home() {
               </a>
               <a
                 className="button button-outline"
+                href="https://x.com/Abhipbc"
+                rel="noreferrer"
+                target="_blank"
+              >
+                X @Abhipbc
+              </a>
+              <a
+                className="button button-outline"
                 href="mailto:m.abhishek1913@gmail.com"
               >
                 Contact
@@ -223,6 +231,14 @@ export default function Home() {
               target="_blank"
             >
               GitHub
+            </a>
+            <a
+              className="button button-outline"
+              href="https://x.com/Abhipbc"
+              rel="noreferrer"
+              target="_blank"
+            >
+              X @Abhipbc
             </a>
           </div>
         </div>
