@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://abhishek-meena.in'),
   title: 'Abhishek Meena | Portfolio',
   description:
     'Portfolio of Abhishek Meena, BCA research student at Central University of Kerala and Chief Technology Officer at Contios.',
